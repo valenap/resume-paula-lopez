@@ -234,7 +234,7 @@ img {
 }
 
 .info-sobremi {
-    background-color: #c3acce;
+    background-color: #ada8f1;
     margin-bottom: 0;
 }
 
@@ -336,9 +336,9 @@ textarea {
 .btn.submit:hover {
     padding-right: 50px;
     padding-left: 50px;
-    border-color: #c3acce;
+    border-color: #ada8f1;
     border-radius: 37px;
-    background-color: #c3acce;
+    background-color: #ada8f1;
     color: white;
 }
 
@@ -352,7 +352,7 @@ textarea {
     border-radius: 3px;
     -webkit-transition: background-color 500ms ease;
     transition: background-color 500ms ease;
-    background-color: #c3acce;
+    background-color: #ada8f1;
 }
 
 .menu-button:hover {
